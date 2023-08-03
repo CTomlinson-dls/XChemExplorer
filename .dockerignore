@@ -8,3 +8,8 @@ __pycache__/
 .mypy_cache/
 
 xce.log
+
+/.devcontainer
+/.git
+
+Dockerfile
